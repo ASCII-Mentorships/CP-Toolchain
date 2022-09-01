@@ -10,7 +10,7 @@ Here's 3 broad areas we could work on to improve the plugin
 
 1) Improving the library: Adding features, like adding capabilites to make a simple GUI, or detailed logs for better debugging or just refactoring the code
 2) Improving the plugin: We faced a lot of issues with docker and git. We could redesign the toolchain to be easier to use, maybe replace docker with a simpler alternative. This option is pretty open ended and any input is welcome
-3) Analysis on the date: Around 90 students signed the consent form to let us use their data. We could anonymize the data and publish a paper like this one: [Research Paper](https://arxiv.org/abs/2012.05085)
+3) Analysis on the data: Around 90 students signed the consent form to let us use their data. We could anonymize the data and publish a paper like this one: [Research Paper](https://arxiv.org/abs/2012.05085)
 
 ### Prerequisites
 
